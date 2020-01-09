@@ -1,0 +1,8 @@
+{
+  "username": "root",
+  "password": "6976630670",
+  "hostname": "localhost",
+  "port": "3306",
+  "schemas": "zlg_spd",
+  "cycle": 3
+}
